@@ -1,0 +1,526 @@
+28-Jun-2021 09:44:46.417 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 09:44:46.521 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 09:44:58.455 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 09:44:58.511 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 10:12:25.456 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 10:12:35.816 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 10:12:35.879 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 10:48:01.793 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 10:48:07.881 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 10:48:07.921 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 11:06:20.835 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 11:06:30.417 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 11:06:30.461 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 11:08:22.776 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 11:08:30.769 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 11:08:30.814 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 11:24:35.338 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 11:24:45.539 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 11:24:45.589 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 11:26:58.198 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 11:27:07.970 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 11:27:08.023 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 11:30:01.145 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 11:30:09.198 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 11:30:09.241 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 11:56:07.155 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 11:56:13.223 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 11:56:13.256 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 13:08:29.907 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 13:08:49.605 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 13:08:49.700 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 13:12:14.635 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 13:12:25.155 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 13:12:25.224 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 13:13:48.385 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 13:13:59.131 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 13:13:59.182 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 13:16:32.118 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 13:16:45.213 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 13:16:45.290 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 14:01:39.125 SEVERE [http-nio-8080-exec-105] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [default] in context with path [/myweb] threw exception [Error processing webservice request] with root cause
+	org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0
+		at org.springframework.dao.support.DataAccessUtils.nullableSingleResult(DataAccessUtils.java:97)
+		at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:784)
+		at com.gjun.service.LineWebHookService.receiveHttpClientLUISService(LineWebHookService.java:252)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+		at org.apache.openejb.server.cxf.rs.PojoInvoker.performInvocation(PojoInvoker.java:43)
+		at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
+		at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)
+		at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)
+		at org.apache.openejb.server.cxf.rs.AutoJAXRSInvoker.invoke(AutoJAXRSInvoker.java:68)
+		at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
+		at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
+		at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+		at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+		at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)
+		at org.apache.openejb.server.cxf.rs.CxfRsHttpListener.doInvoke(CxfRsHttpListener.java:262)
+		at org.apache.tomee.webservices.CXFJAXRSFilter.doFilter(CXFJAXRSFilter.java:99)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.openejb.server.httpd.EEFilter.doFilter(EEFilter.java:65)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.tomee.catalina.OpenEJBValve.invoke(OpenEJBValve.java:45)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.tomee.catalina.OpenEJBSecurityListener$RequestCapturer.invoke(OpenEJBSecurityListener.java:97)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:832)
+28-Jun-2021 14:01:45.146 SEVERE [http-nio-8080-exec-106] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [default] in context with path [/myweb] threw exception [Error processing webservice request] with root cause
+	org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0
+		at org.springframework.dao.support.DataAccessUtils.nullableSingleResult(DataAccessUtils.java:97)
+		at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:784)
+		at com.gjun.service.LineWebHookService.receiveHttpClientLUISService(LineWebHookService.java:252)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+		at org.apache.openejb.server.cxf.rs.PojoInvoker.performInvocation(PojoInvoker.java:43)
+		at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
+		at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)
+		at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)
+		at org.apache.openejb.server.cxf.rs.AutoJAXRSInvoker.invoke(AutoJAXRSInvoker.java:68)
+		at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
+		at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
+		at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+		at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+		at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)
+		at org.apache.openejb.server.cxf.rs.CxfRsHttpListener.doInvoke(CxfRsHttpListener.java:262)
+		at org.apache.tomee.webservices.CXFJAXRSFilter.doFilter(CXFJAXRSFilter.java:99)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.openejb.server.httpd.EEFilter.doFilter(EEFilter.java:65)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.tomee.catalina.OpenEJBValve.invoke(OpenEJBValve.java:45)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.tomee.catalina.OpenEJBSecurityListener$RequestCapturer.invoke(OpenEJBSecurityListener.java:97)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:832)
+28-Jun-2021 14:02:18.393 SEVERE [http-nio-8080-exec-107] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [default] in context with path [/myweb] threw exception [Error processing webservice request] with root cause
+	org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0
+		at org.springframework.dao.support.DataAccessUtils.nullableSingleResult(DataAccessUtils.java:97)
+		at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:784)
+		at com.gjun.service.LineWebHookService.receiveHttpClientLUISService(LineWebHookService.java:252)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+		at org.apache.openejb.server.cxf.rs.PojoInvoker.performInvocation(PojoInvoker.java:43)
+		at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
+		at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)
+		at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)
+		at org.apache.openejb.server.cxf.rs.AutoJAXRSInvoker.invoke(AutoJAXRSInvoker.java:68)
+		at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
+		at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
+		at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+		at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+		at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)
+		at org.apache.openejb.server.cxf.rs.CxfRsHttpListener.doInvoke(CxfRsHttpListener.java:262)
+		at org.apache.tomee.webservices.CXFJAXRSFilter.doFilter(CXFJAXRSFilter.java:99)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.openejb.server.httpd.EEFilter.doFilter(EEFilter.java:65)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.tomee.catalina.OpenEJBValve.invoke(OpenEJBValve.java:45)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.tomee.catalina.OpenEJBSecurityListener$RequestCapturer.invoke(OpenEJBSecurityListener.java:97)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:832)
+28-Jun-2021 14:06:04.822 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 14:06:12.178 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 14:06:12.209 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 14:52:37.669 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 14:52:44.599 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 14:52:44.630 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 14:54:06.301 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 14:54:12.907 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 14:54:12.944 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 14:57:35.150 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 14:57:41.708 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 14:57:41.755 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 15:22:15.237 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 15:22:21.797 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 15:22:21.829 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 15:25:23.672 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 15:25:30.401 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 15:25:30.440 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 15:26:32.111 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 15:26:38.798 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 15:26:38.841 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 15:36:11.627 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 15:36:18.437 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 15:36:18.481 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 15:38:10.443 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 15:38:17.042 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 15:38:17.076 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 15:41:29.082 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 15:41:36.112 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 15:41:36.146 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 15:43:38.077 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 15:43:45.738 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 15:43:45.764 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 15:45:27.738 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 15:45:34.429 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 15:45:34.462 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 15:47:26.313 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 15:47:33.186 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 15:47:33.219 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 16:27:37.716 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 16:27:45.750 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 16:27:45.814 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 17:35:12.160 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 17:35:20.283 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 17:35:20.328 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 17:37:57.318 SEVERE [1541] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [default] in context with path [/myweb] threw exception [Error processing webservice request] with root cause
+	java.lang.NullPointerException: Value is null
+		at org.apache.cxf.jaxrs.client.spec.ClientImpl.checkNull(ClientImpl.java:138)
+		at org.apache.cxf.jaxrs.client.spec.ClientImpl.target(ClientImpl.java:116)
+		at com.gjun.service.IoTDataTransformationService.iotTransformation(IoTDataTransformationService.java:40)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+		at org.apache.openejb.server.cxf.rs.PojoInvoker.performInvocation(PojoInvoker.java:43)
+		at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
+		at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)
+		at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)
+		at org.apache.openejb.server.cxf.rs.AutoJAXRSInvoker.invoke(AutoJAXRSInvoker.java:68)
+		at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
+		at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
+		at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+		at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+		at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)
+		at org.apache.openejb.server.cxf.rs.CxfRsHttpListener.doInvoke(CxfRsHttpListener.java:262)
+		at org.apache.tomee.webservices.CXFJAXRSFilter.doFilter(CXFJAXRSFilter.java:99)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.openejb.server.httpd.EEFilter.doFilter(EEFilter.java:65)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.tomee.catalina.OpenEJBValve.invoke(OpenEJBValve.java:45)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.tomee.catalina.OpenEJBSecurityListener$RequestCapturer.invoke(OpenEJBSecurityListener.java:97)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:832)
+28-Jun-2021 17:39:35.598 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 17:39:45.668 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 17:39:45.698 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 17:39:55.350 SEVERE [http-nio-8080-exec-218] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [default] in context with path [/myweb] threw exception [Error processing webservice request] with root cause
+	java.net.URISyntaxException: Malformed escape pair at index 37: https://iot.cht.com.tw/iot/v1/device/%s/sensor/%s/rawdata?start=%sT00:00:00Z&end=%sT24:00:00Z
+		at java.base/java.net.URI$Parser.fail(URI.java:2938)
+		at java.base/java.net.URI$Parser.scanEscape(URI.java:3066)
+		at java.base/java.net.URI$Parser.scan(URI.java:3089)
+		at java.base/java.net.URI$Parser.checkChars(URI.java:3107)
+		at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3191)
+		at java.base/java.net.URI$Parser.parse(URI.java:3139)
+		at java.base/java.net.URI.<init>(URI.java:623)
+		at java.base/java.net.URI.create(URI.java:904)
+		at org.apache.cxf.jaxrs.impl.UriBuilderImpl.uri(UriBuilderImpl.java:944)
+		at javax.ws.rs.core.UriBuilder.fromUri(UriBuilder.java:43)
+		at org.apache.cxf.jaxrs.client.spec.ClientImpl.target(ClientImpl.java:120)
+		at com.gjun.service.IoTDataTransformationService.iotTransformation(IoTDataTransformationService.java:40)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+		at org.apache.openejb.server.cxf.rs.PojoInvoker.performInvocation(PojoInvoker.java:43)
+		at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
+		at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)
+		at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)
+		at org.apache.openejb.server.cxf.rs.AutoJAXRSInvoker.invoke(AutoJAXRSInvoker.java:68)
+		at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
+		at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
+		at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+		at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+		at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)
+		at org.apache.openejb.server.cxf.rs.CxfRsHttpListener.doInvoke(CxfRsHttpListener.java:262)
+		at org.apache.tomee.webservices.CXFJAXRSFilter.doFilter(CXFJAXRSFilter.java:99)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.openejb.server.httpd.EEFilter.doFilter(EEFilter.java:65)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.tomee.catalina.OpenEJBValve.invoke(OpenEJBValve.java:45)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.tomee.catalina.OpenEJBSecurityListener$RequestCapturer.invoke(OpenEJBSecurityListener.java:97)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:832)
+28-Jun-2021 17:43:47.294 INFO [Thread-24] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 17:43:47.995 INFO [Thread-24] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 17:44:14.607 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 17:44:14.690 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 17:44:22.288 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 17:44:22.324 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 17:45:31.941 SEVERE [http-nio-8080-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [default] in context with path [/myweb] threw exception [Error processing webservice request] with root cause
+	java.net.URISyntaxException: Malformed escape pair at index 37: https://iot.cht.com.tw/iot/v1/device/%s/sensor/%s/rawdata?start=%sT00:00:00Z&end=%sT24:00:00Z
+		at java.base/java.net.URI$Parser.fail(URI.java:2938)
+		at java.base/java.net.URI$Parser.scanEscape(URI.java:3066)
+		at java.base/java.net.URI$Parser.scan(URI.java:3089)
+		at java.base/java.net.URI$Parser.checkChars(URI.java:3107)
+		at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3191)
+		at java.base/java.net.URI$Parser.parse(URI.java:3139)
+		at java.base/java.net.URI.<init>(URI.java:623)
+		at java.base/java.net.URI.create(URI.java:904)
+		at org.apache.cxf.jaxrs.impl.UriBuilderImpl.uri(UriBuilderImpl.java:944)
+		at javax.ws.rs.core.UriBuilder.fromUri(UriBuilder.java:43)
+		at org.apache.cxf.jaxrs.client.spec.ClientImpl.target(ClientImpl.java:120)
+		at com.gjun.service.IoTDataTransformationService.iotTransformation(IoTDataTransformationService.java:40)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+		at org.apache.openejb.server.cxf.rs.PojoInvoker.performInvocation(PojoInvoker.java:43)
+		at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
+		at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)
+		at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)
+		at org.apache.openejb.server.cxf.rs.AutoJAXRSInvoker.invoke(AutoJAXRSInvoker.java:68)
+		at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
+		at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
+		at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+		at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+		at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)
+		at org.apache.openejb.server.cxf.rs.CxfRsHttpListener.doInvoke(CxfRsHttpListener.java:262)
+		at org.apache.tomee.webservices.CXFJAXRSFilter.doFilter(CXFJAXRSFilter.java:99)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.openejb.server.httpd.EEFilter.doFilter(EEFilter.java:65)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.tomee.catalina.OpenEJBValve.invoke(OpenEJBValve.java:45)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.tomee.catalina.OpenEJBSecurityListener$RequestCapturer.invoke(OpenEJBSecurityListener.java:97)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:832)
+28-Jun-2021 17:46:43.167 SEVERE [http-nio-8080-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [default] in context with path [/myweb] threw exception [Error processing webservice request] with root cause
+	java.net.URISyntaxException: Malformed escape pair at index 37: https://iot.cht.com.tw/iot/v1/device/%s/sensor/%s/rawdata?start=%sT00:00:00Z&end=%sT24:00:00Z
+		at java.base/java.net.URI$Parser.fail(URI.java:2938)
+		at java.base/java.net.URI$Parser.scanEscape(URI.java:3066)
+		at java.base/java.net.URI$Parser.scan(URI.java:3089)
+		at java.base/java.net.URI$Parser.checkChars(URI.java:3107)
+		at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3191)
+		at java.base/java.net.URI$Parser.parse(URI.java:3139)
+		at java.base/java.net.URI.<init>(URI.java:623)
+		at java.base/java.net.URI.create(URI.java:904)
+		at org.apache.cxf.jaxrs.impl.UriBuilderImpl.uri(UriBuilderImpl.java:944)
+		at javax.ws.rs.core.UriBuilder.fromUri(UriBuilder.java:43)
+		at org.apache.cxf.jaxrs.client.spec.ClientImpl.target(ClientImpl.java:120)
+		at com.gjun.service.IoTDataTransformationService.iotTransformation(IoTDataTransformationService.java:40)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+		at org.apache.openejb.server.cxf.rs.PojoInvoker.performInvocation(PojoInvoker.java:43)
+		at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
+		at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)
+		at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)
+		at org.apache.openejb.server.cxf.rs.AutoJAXRSInvoker.invoke(AutoJAXRSInvoker.java:68)
+		at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
+		at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
+		at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+		at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+		at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)
+		at org.apache.openejb.server.cxf.rs.CxfRsHttpListener.doInvoke(CxfRsHttpListener.java:262)
+		at org.apache.tomee.webservices.CXFJAXRSFilter.doFilter(CXFJAXRSFilter.java:99)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.openejb.server.httpd.EEFilter.doFilter(EEFilter.java:65)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.tomee.catalina.OpenEJBValve.invoke(OpenEJBValve.java:45)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.tomee.catalina.OpenEJBSecurityListener$RequestCapturer.invoke(OpenEJBSecurityListener.java:97)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:832)
+28-Jun-2021 17:48:01.230 INFO [Thread-24] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 17:48:01.384 INFO [Thread-24] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 17:48:25.125 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 17:48:25.195 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 17:48:31.878 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 17:48:31.939 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 17:48:45.566 SEVERE [http-nio-8080-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [default] in context with path [/myweb] threw exception [Error processing webservice request] with root cause
+	java.net.URISyntaxException: Malformed escape pair at index 37: https://iot.cht.com.tw/iot/v1/device/%s/sensor/%s/rawdata?start=%sT00:00:00Z&end=%sT24:00:00Z
+		at java.base/java.net.URI$Parser.fail(URI.java:2938)
+		at java.base/java.net.URI$Parser.scanEscape(URI.java:3066)
+		at java.base/java.net.URI$Parser.scan(URI.java:3089)
+		at java.base/java.net.URI$Parser.checkChars(URI.java:3107)
+		at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3191)
+		at java.base/java.net.URI$Parser.parse(URI.java:3139)
+		at java.base/java.net.URI.<init>(URI.java:623)
+		at java.base/java.net.URI.create(URI.java:904)
+		at org.apache.cxf.jaxrs.impl.UriBuilderImpl.uri(UriBuilderImpl.java:944)
+		at javax.ws.rs.core.UriBuilder.fromUri(UriBuilder.java:43)
+		at org.apache.cxf.jaxrs.client.spec.ClientImpl.target(ClientImpl.java:120)
+		at com.gjun.service.IoTDataTransformationService.iotTransformation(IoTDataTransformationService.java:40)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+		at org.apache.openejb.server.cxf.rs.PojoInvoker.performInvocation(PojoInvoker.java:43)
+		at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
+		at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)
+		at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)
+		at org.apache.openejb.server.cxf.rs.AutoJAXRSInvoker.invoke(AutoJAXRSInvoker.java:68)
+		at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
+		at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
+		at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+		at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+		at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)
+		at org.apache.openejb.server.cxf.rs.CxfRsHttpListener.doInvoke(CxfRsHttpListener.java:262)
+		at org.apache.tomee.webservices.CXFJAXRSFilter.doFilter(CXFJAXRSFilter.java:99)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.openejb.server.httpd.EEFilter.doFilter(EEFilter.java:65)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.tomee.catalina.OpenEJBValve.invoke(OpenEJBValve.java:45)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.tomee.catalina.OpenEJBSecurityListener$RequestCapturer.invoke(OpenEJBSecurityListener.java:97)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1598)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:832)
+28-Jun-2021 17:51:25.503 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 17:51:40.940 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 17:51:41.006 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Jun-2021 17:53:34.590 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+28-Jun-2021 17:53:42.903 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Jun-2021 17:53:42.941 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext

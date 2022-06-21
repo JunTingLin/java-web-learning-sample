@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" version="4.0">
+  <display-name>myweb</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  <!-- 佈署Hello Servlet 才有機會產生一個個體物件  總得有前端第一個請求 才產生物件 -->
+  <servlet>
+  	<!-- 描述一個具有唯一性的識別名稱 -->
+  	<servlet-name>hello</servlet-name>
+  	<servlet-class>com.gjun.view.HelloServlet</servlet-class>
+  </servlet>
+  <!-- 這一個Servlet跟應用系統活過來的 -->
+  <servlet>
+  	<servlet-name>appconfig</servlet-name>
+  	<servlet-class>com.gjun.view.ApplicationConfigServlet</servlet-class>
+  	<!-- 跟應用系統啟動 產生個體物件 -->
+  	<!-- <load-on-startup>1</load-on-startup>-->
+  </servlet>
+  <!-- 描述一個對外的端點 -->
+  <servlet-mapping>
+  	<servlet-name>hello</servlet-name>
+  	<!-- 對外的端點 網站根目錄開始算起 / -->
+  	<url-pattern>/hello</url-pattern>
+  </servlet-mapping>
+  <!-- 佈署具有初始化參數Sevelet -->
+  <servlet>
+  	<servlet-name>cities</servlet-name>
+  	<servlet-class>com.gjun.view.CityServlet</servlet-class>
+  	<!-- 初始化參數 -->
+  	<init-param>
+  		<param-name>cities</param-name>
+  		<param-value>台北市,新北市,桃園市,台中市,台南市,高雄市</param-value>
+  	</init-param>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>cities</servlet-name>
+  	<url-pattern>/city</url-pattern>
+  </servlet-mapping>
+  <!-- 佈署lisener -->
+  <listener>
+  	<listener-class>com.gjun.listener.ApplicationHandler</listener-class>
+  </listener>
+</web-app>

@@ -1,0 +1,194 @@
+09-Jun-2021 11:29:45.080 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 11:29:45.189 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 11:29:58.917 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 11:29:58.988 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 11:30:46.427 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+09-Jun-2021 11:33:49.174 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 11:35:27.763 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+09-Jun-2021 11:35:49.176 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 11:35:56.981 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 11:35:57.085 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 11:39:33.922 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 11:39:34.012 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 11:45:01.720 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+09-Jun-2021 11:45:02.758 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+09-Jun-2021 15:03:51.281 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 15:03:51.403 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 15:04:07.766 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 15:04:07.854 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 15:04:24.744 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+09-Jun-2021 15:04:35.934 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 15:04:36.025 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 15:53:47.361 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+09-Jun-2021 15:53:59.626 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 15:53:59.698 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 16:23:05.533 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+09-Jun-2021 16:23:14.199 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 16:23:14.240 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 16:44:41.271 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+09-Jun-2021 16:44:41.982 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+09-Jun-2021 21:56:00.494 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 21:56:00.554 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 21:56:06.230 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 21:56:06.262 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 21:56:18.575 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+09-Jun-2021 21:56:22.812 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 21:56:22.837 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 22:07:24.477 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+09-Jun-2021 22:07:24.868 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+09-Jun-2021 22:32:44.850 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 22:32:44.897 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 22:32:49.853 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 22:32:49.885 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 22:33:12.022 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+09-Jun-2021 22:37:02.275 INFO [Thread-24] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+09-Jun-2021 22:37:15.401 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 22:37:15.437 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 22:40:18.684 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 22:40:18.723 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 22:44:15.727 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 22:44:15.765 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 22:50:10.087 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+09-Jun-2021 22:50:49.141 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 22:50:49.210 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 22:51:07.306 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+09-Jun-2021 22:51:53.187 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 22:51:53.265 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 22:51:57.699 SEVERE [main] org.apache.catalina.core.ApplicationContext.log Servlet.init() for servlet [jersey-serlvet] threw exception
+	java.lang.IllegalArgumentException
+		at jersey.repackaged.org.objectweb.asm.ClassReader.<init>(ClassReader.java:171)
+		at jersey.repackaged.org.objectweb.asm.ClassReader.<init>(ClassReader.java:153)
+		at jersey.repackaged.org.objectweb.asm.ClassReader.<init>(ClassReader.java:425)
+		at org.glassfish.jersey.server.internal.scanning.AnnotationAcceptingListener.process(AnnotationAcceptingListener.java:170)
+		at org.glassfish.jersey.server.ResourceConfig.scanClasses(ResourceConfig.java:909)
+		at org.glassfish.jersey.server.ResourceConfig._getClasses(ResourceConfig.java:863)
+		at org.glassfish.jersey.server.ResourceConfig.getClasses(ResourceConfig.java:772)
+		at org.glassfish.jersey.server.ResourceConfig$WrappingResourceConfig._getClasses(ResourceConfig.java:1141)
+		at org.glassfish.jersey.server.ResourceConfig.getClasses(ResourceConfig.java:772)
+		at org.glassfish.jersey.server.ResourceConfig$RuntimeConfig.<init>(ResourceConfig.java:1199)
+		at org.glassfish.jersey.server.ResourceConfig$RuntimeConfig.<init>(ResourceConfig.java:1172)
+		at org.glassfish.jersey.server.ResourceConfig.createRuntimeConfig(ResourceConfig.java:1168)
+		at org.glassfish.jersey.server.ApplicationHandler$RuntimeConfigConfigurator.init(ApplicationHandler.java:205)
+		at org.glassfish.jersey.server.ApplicationHandler.lambda$initialize$0(ApplicationHandler.java:313)
+		at java.base/java.util.Arrays$ArrayList.forEach(Arrays.java:4203)
+		at org.glassfish.jersey.server.ApplicationHandler.initialize(ApplicationHandler.java:313)
+		at org.glassfish.jersey.server.ApplicationHandler.<init>(ApplicationHandler.java:282)
+		at org.glassfish.jersey.servlet.WebComponent.<init>(WebComponent.java:335)
+		at org.glassfish.jersey.servlet.ServletContainer.init(ServletContainer.java:178)
+		at org.glassfish.jersey.servlet.ServletContainer.init(ServletContainer.java:370)
+		at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1134)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1089)
+		at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:983)
+		at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4871)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5180)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:717)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:690)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:705)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:978)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1849)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+		at org.apache.catalina.startup.HostConfig.deployWARs(HostConfig.java:773)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:427)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1576)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:309)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:936)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:841)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:421)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:633)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:343)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:474)
+09-Jun-2021 22:51:57.699 SEVERE [main] org.apache.catalina.core.StandardContext.loadOnStartup Servlet [jersey-serlvet] in web application [/myweb] threw load() exception
+	java.lang.IllegalArgumentException
+		at jersey.repackaged.org.objectweb.asm.ClassReader.<init>(ClassReader.java:171)
+		at jersey.repackaged.org.objectweb.asm.ClassReader.<init>(ClassReader.java:153)
+		at jersey.repackaged.org.objectweb.asm.ClassReader.<init>(ClassReader.java:425)
+		at org.glassfish.jersey.server.internal.scanning.AnnotationAcceptingListener.process(AnnotationAcceptingListener.java:170)
+		at org.glassfish.jersey.server.ResourceConfig.scanClasses(ResourceConfig.java:909)
+		at org.glassfish.jersey.server.ResourceConfig._getClasses(ResourceConfig.java:863)
+		at org.glassfish.jersey.server.ResourceConfig.getClasses(ResourceConfig.java:772)
+		at org.glassfish.jersey.server.ResourceConfig$WrappingResourceConfig._getClasses(ResourceConfig.java:1141)
+		at org.glassfish.jersey.server.ResourceConfig.getClasses(ResourceConfig.java:772)
+		at org.glassfish.jersey.server.ResourceConfig$RuntimeConfig.<init>(ResourceConfig.java:1199)
+		at org.glassfish.jersey.server.ResourceConfig$RuntimeConfig.<init>(ResourceConfig.java:1172)
+		at org.glassfish.jersey.server.ResourceConfig.createRuntimeConfig(ResourceConfig.java:1168)
+		at org.glassfish.jersey.server.ApplicationHandler$RuntimeConfigConfigurator.init(ApplicationHandler.java:205)
+		at org.glassfish.jersey.server.ApplicationHandler.lambda$initialize$0(ApplicationHandler.java:313)
+		at java.base/java.util.Arrays$ArrayList.forEach(Arrays.java:4203)
+		at org.glassfish.jersey.server.ApplicationHandler.initialize(ApplicationHandler.java:313)
+		at org.glassfish.jersey.server.ApplicationHandler.<init>(ApplicationHandler.java:282)
+		at org.glassfish.jersey.servlet.WebComponent.<init>(WebComponent.java:335)
+		at org.glassfish.jersey.servlet.ServletContainer.init(ServletContainer.java:178)
+		at org.glassfish.jersey.servlet.ServletContainer.init(ServletContainer.java:370)
+		at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1134)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1089)
+		at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:983)
+		at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4871)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5180)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:717)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:690)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:705)
+		at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:978)
+		at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1849)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:118)
+		at org.apache.catalina.startup.HostConfig.deployWARs(HostConfig.java:773)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:427)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1576)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:309)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:936)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:841)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1384)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1374)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:909)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:421)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:633)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:343)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:474)
+09-Jun-2021 22:52:02.205 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2021 22:52:02.255 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Jun-2021 22:53:34.428 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+09-Jun-2021 22:53:34.575 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
