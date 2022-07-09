@@ -12,18 +12,23 @@
 <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/themes/base/jquery-ui.css" type="text/css" media="all" /> 
 <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.5.min.js" type="text/javascript"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.min.js" type="text/javascript"></script>
+<!-- 老師因為趕時間所以亂引用，主要必須引用四個Vue、bootstrap、jquery、jqueryui -->
 </head>
 <body onload="init()">
 	<!-- 沒有撰寫表單頁面 採用JavaScript非同步呼喚後端RESTful Service -->
 	<fieldset id="panel">
+	<!-- Vue的綁定只有在這一大塊panel fieldset -->
 		<legend>客戶查詢</legend>
 		<div>國家別</div>
 		<input type="text" id="country" v-model:text="countryKey" style="font-size:24px;" class="text-primary"/>
+		<!-- Vue的擴充attribute v-model，要綁定的是text屬性，綁的值是countryKey -->
 		<button id="btnGo">查詢</button>
 		<br/>
 		<div>您輸入查詢國家別:{{countryKey}}</div>
 		<br/>
 		<div style="font-size:24px;color:red;">{{messageData.msg}}</div>
+		<!-- 這邊不須再寫app.messageData.msg -->
+		<!-- 兩個大括號是build運算式 -->
 		<fieldset v-if="isShow">
 			<legend>查詢結果</legend>
 			<table class="table table-dark table-hover">
@@ -95,8 +100,10 @@
 		let btnGo=document.getElementById('btnGo');
 		//alert(btnGo);
 		//針對那一個按鈕物件執行階段 委派click事件程序
+		// 也可使用tag裡的onclick屬性<element onclick="myScript">
 		btnGo.addEventListener('click',
-				//Lambda expresion
+				//Lambda expresion，也可用一般funciton(){}
+				// 跟java lambda有差，java為()->{}，為單鍵號
 				()=>{
 					//alert('我是按鈕');
 					//1.使用DOM去參考文字輸入方塊輸入內容(國家別)

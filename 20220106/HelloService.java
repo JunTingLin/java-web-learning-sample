@@ -13,6 +13,7 @@ public class HelloService {
 	}
 	@Path("/say/hello")
 	@GET //前端請求方法 
+	//被請求到這個端點的時候就會產生一個個體物件
 	@Produces("text/plain") //決定Response Header Content-Type
 	public String sayHello() {
 		return "<font size='7' color='red'>您好</font>";

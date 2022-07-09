@@ -8,13 +8,16 @@
 </head>
 <body>
 	<!-- action element 建立一個新的JavaBean預設attribute範圍page -->
+	<!-- 預設為page層 -->
 	<jsp:useBean id="dao" class="com.gjun.domain.CustomersDao"></jsp:useBean>
+	<!-- "datasource"名稱必須是你setAttribute時的名稱 -->
 	<jsp:useBean id="datasource" class="com.mysql.cj.jdbc.MysqlDataSource" 
-	scope="application"></jsp:useBean>
+	scope="application"></jsp:useBean> <!--有在AppDBUtility裡setAttribute到application(ServletContext)過了 -->
 	<!-- 擷取前一個頁面表單欄位內容 -->
+	<!-- scriptlet -->
 	<%
 		//向應用系統物件ServletContext 使用內建物件appliction
-		//DataSource source=(DataSource)application.getAttribute("datasource");
+		//DataSource source=(DataSource)application.getAttribute("datasource");//改用jsp:useBean
 		//Scriptlet使用內建物件 request
 		String country=request.getParameter("country");
 		//進行資料查詢(DAO設計模式)
@@ -34,6 +37,7 @@
 		writer.println(country);
 	
 	%>
+	<!-- expression -->
 	<div>查詢國家別:<%=country%></div>
 	<div>查詢記錄數:<%=result.size()%></div>
 	<!-- 呈現結果 -->

@@ -20,6 +20,7 @@ public class MyBodyTagHandler implements BodyTag {
 	public int doAfterBody() throws JspException {
 		//借助注入進來的BodyContent <xxx>xxxxx...</xxx>
 		String sourceBody=this.bodyContent.getString();
+		// 取得我tag包夾中的bodycontent內容
 		JspWriter innerWriter=this.bodyContent.getEnclosingWriter();
 		try {
 			String msg=String.format("<font size='7'>我是Body內容....%s</font>",sourceBody);
@@ -48,6 +49,7 @@ public class MyBodyTagHandler implements BodyTag {
 			e.printStackTrace();
 		}
 		//回應旗標可能影響到body處理方式 (Buffered 將body儲放在BodyContent內 進行緩存與處理)
+		// bodyContent的部分會進入buffer緩存區，在doAferBody()透過get帶進去
 		return EVAL_BODY_BUFFERED;
 	}
 

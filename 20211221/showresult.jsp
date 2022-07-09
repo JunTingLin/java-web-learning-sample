@@ -9,6 +9,7 @@
 <body>
 	<div>執行狀態:${param.state}</div>
 	<!-- 取出Session範圍JavaBean -->
+	<!-- 既有的會拿回來用，沒有的會創建一個新的 -->
 	<jsp:useBean id="customers" class="com.gjun.beans.MyCustomers" scope="session"></jsp:useBean>
 	<!-- 鋪畫面 -->
 	<table>
@@ -30,7 +31,7 @@
 		</tr>
 		<tr>
 			<td>EMAIL</td>
-			<td>${customers.email}</td>
+			<td><%=customers.getEmail() %></td>
 		</tr>
 		<tr>
 			<td>國家別</td>
@@ -39,3 +40,5 @@
 	</table>
 </body>
 </html>
+
+<!-- EL寫法有防呆，不會跳例外錯誤 -->

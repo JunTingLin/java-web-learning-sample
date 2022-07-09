@@ -15,6 +15,7 @@
   	<tag-class>com.gjun.tags.HelloWorldTagHandler</tag-class>
   	<body-content>empty</body-content>
   	<example>&lt;eric:hello/&gt;</example>
+    <!-- 可以用線上html encode把"<"換成"&lt;"，不然會撞 -->
   	
   </tag>
 </taglib>  

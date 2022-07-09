@@ -27,6 +27,7 @@ public class ServletContextInformation extends HttpServlet {
 	
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		//問出網站應用系統ServletContext
+		//也可透過request.getServletContext()取得  
 		ServletContext application=this.getServletContext();
 		String contextPath=application.getContextPath(); //問網站應用系統/myweb
 		System.out.println("context path:"+contextPath); //問出/myweb 網站名稱

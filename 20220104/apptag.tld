@@ -28,6 +28,7 @@
   	<attribute>
   		<description>注入姓名</description>
   		<name>who</name>
+		<!-- name名字不能亂寫，必須對應WhoHelloTagHandler，setterXXX、getterXXX 的封裝欄位 -->
   		<required>true</required>
   		<rtexprvalue>true</rtexprvalue>
   		<type>java.lang.String</type>
@@ -70,6 +71,7 @@
   		<required>true</required>
   		<rtexprvalue>false</rtexprvalue>
   		<type>java.lang.Integer</type>
+		<!-- int->Interger 基本型態封箱型別wrapper -->
   	</attribute>
   </tag>
   
@@ -113,6 +115,7 @@
   		<required>true</required>
   		<rtexprvalue>true</rtexprvalue>
   		<type>java.util.List&lt;java.lang.String&gt;</type>
+		<!-- 泛型<>語法會跟tag起衝突，一樣轉html encode -->
   	</attribute>
   </tag>
 </taglib>  

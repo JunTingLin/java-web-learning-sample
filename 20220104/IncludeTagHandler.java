@@ -23,7 +23,7 @@ public class IncludeTagHandler extends BodyTagSupport {
 
 	@Override
 	public int doAfterBody() throws JspException {
-		//1.取得注入BodyContent??? 採用EVAL_BODY_INCLUDE
+		//1.取得注入BodyContent???不行，因為 採用EVAL_BODY_INCLUDE
 		//String content=this.bodyContent.getString();
 		//JspWriter out=this.bodyContent.getEnclosingWriter();
 //		try {
@@ -44,6 +44,7 @@ public class IncludeTagHandler extends BodyTagSupport {
 	public int doStartTag() throws JspException {
 		//Body Include
 		return EVAL_BODY_INCLUDE;
+		//用Body Include，就無法使用BodyContent
 	}
 
 	@Override

@@ -21,7 +21,7 @@ public class HelloWorldTagHandler implements Tag{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		return EVAL_PAGE;
+		return EVAL_PAGE;  //可以先下個this.看看有哪寫常數可以使用
 	}
 
 	// 標籤庫 tld 來決定 開頭 <xxx:xxx>實體標籤</xxx:xxx>   <xxx:xxx  />
@@ -52,6 +52,7 @@ public class HelloWorldTagHandler implements Tag{
 		
 	}
 
+	//不然不知道訊息要寫到哪裡去
 	@Override
 	public void setPageContext(PageContext pageContext) {
 		this.pageContext=pageContext;

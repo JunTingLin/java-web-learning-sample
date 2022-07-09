@@ -14,7 +14,7 @@ public interface IDao<T> {
 	public default T selectForObject(Object key) throws SQLException {
 		return null;
 	}
-	public default boolean selectForObject(Object key1,Object key2) throws SQLException {
+	public default boolean selectForObject(Object key1,Object key2) throws SQLException { //¦h¸üoverloading
 		return false;
 	}
 	//¦hµ§¬d¸ß

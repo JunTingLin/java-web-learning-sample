@@ -12,6 +12,7 @@ import com.mysql.cj.jdbc.MysqlDataSource;
 
 public class AppDBUtility {
 	//static method(非物件化)
+	// 有可能有多個資源檔properties file或是要替換資源檔，所以這裡設計一個String config傳參
 	public static void createDataSource(ServletContext application,String config) {
 		MysqlDataSource datasource=new MysqlDataSource();
 		System.out.println("DataSource建立了..."+datasource);

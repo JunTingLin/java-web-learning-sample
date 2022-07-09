@@ -19,6 +19,8 @@
 	<h1>100X50=${100*50}</h1>
 	<h1>${requestScope.message}</h1>
 	<h1>${pageScope.message}</h1>
+	<h1>${message}</h1>
+	<!-- 萬一message有兩個會抓最小範圍的那一個 -->
 	<h1>應用系統範圍:${applicationScope.datasource}</h1>
 	<h1>Session狀態:${sessionScope.cred}</h1>
 </body>

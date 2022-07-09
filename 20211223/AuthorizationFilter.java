@@ -17,6 +17,7 @@ import javax.servlet.http.HttpSession;
 /**
  * Servlet Filter implementation class AuthorizationFilter
  */
+// 新建filter時用工具設定
 @WebFilter(dispatcherTypes = {
 				DispatcherType.REQUEST, 
 				DispatcherType.FORWARD, 

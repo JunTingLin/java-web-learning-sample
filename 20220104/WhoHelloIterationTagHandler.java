@@ -59,7 +59,7 @@ public class WhoHelloIterationTagHandler extends TagSupport {
 	}
 	@Override
 	public int doStartTag() throws JspException {
-		
+		//開頭標籤讓他繼續往下跑	
 		return this.EVAL_PAGE;
 	}
 	

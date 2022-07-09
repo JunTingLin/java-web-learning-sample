@@ -59,6 +59,7 @@
   <!-- 設定哪一目錄下升起來 -->
   <filter-mapping>
   	<filter-name>encode</filter-name>
-  	<url-pattern>/*</url-pattern>
+  	<url-pattern>/*</url-pattern> 
+    <!-- 網站跟目錄底下的任何地方我都要升起來 -->
   </filter-mapping>
 </web-app>

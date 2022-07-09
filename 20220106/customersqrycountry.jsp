@@ -8,7 +8,8 @@
 <script type="text/javascript">
 	//網頁下載時進行初始化
 	function init(){
-		//參考出標籤物件 設定為區域變數
+		//參考出標籤物件(DOM-Document Object Model) 設定為區域變數
+		// document代表整頁物件
 		let btnGo=document.getElementById('btnGo');
 		alert(btnGo);
 	}

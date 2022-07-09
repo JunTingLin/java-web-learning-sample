@@ -10,13 +10,14 @@ import com.gjun.beans.MyCustomers;
 
 public class MyCustomersDao implements IDao<MyCustomers> {
 	//Attribute
-	private DataSource dataSource;
+	private DataSource dataSource; //之前datasource沒對好，改成dataSource
 
 	@Override
 	public void setDataSource(DataSource dataSource) {
 		this.dataSource=dataSource;
 	}
 
+	// 並且多追加了getter
 	public DataSource getDataSource() {
 		return dataSource;
 	}

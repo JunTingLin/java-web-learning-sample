@@ -26,6 +26,7 @@ public class WhoHelloTagHandler extends TagSupport {
 	//開頭標籤程序
 	@Override
 	public int doStartTag() throws JspException {
+		// TagSupport class已經幫你把pageContext注入進來了，直接this.使用
 		//借助注入進來PageContext 取出Writer
 		PageContext pageContext=this.pageContext;
 		JspWriter out=pageContext.getOut();

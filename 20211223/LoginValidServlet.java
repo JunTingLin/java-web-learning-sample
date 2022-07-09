@@ -51,7 +51,8 @@ public class LoginValidServlet extends HttpServlet {
 				//發出憑證(Cookie)
 				Cookie cookie=new Cookie("cred",userName); //明文 沒有私密性資料
 				//Domain 預設採用目前網站系統
-				cookie.setPath("/acct");
+				cookie.setPath("acct"); //根目錄下/財務系統網域有效
+				// 注意:"/"不用加
 				//讓Response參考這一個要帶下去的Cookie
 				response.addCookie(cookie);
 				

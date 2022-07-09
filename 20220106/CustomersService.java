@@ -29,7 +29,7 @@ public class CustomersService {
 	public CustomersService() {
 		
 	}
-	//JAX-RS 支援Middleware將可序列化物件 回應預設序列化成Json(配合Produces()
+	//JAX-RS 支援Middleware將可序列化物件 回應預設序列化成Json(配合Produces())，非呈現記憶體位置
 	//傳遞國家別 進行相關客戶查詢服務 採用QueryString傳遞國家別../custqry/rawdata?count=xxx
 	//使用Injection 注入依賴物件
 	@Path("/custqry/rawdata")
@@ -38,7 +38,8 @@ public class CustomersService {
 	public Response customersQry(@Context ServletContext application
 			,@QueryParam("count")String country) {
 		//1.透過網站系統物件ServletContext 參考出DataSource(連接工廠物件)
-		//取出DataSource
+		//@Context透過注入進來，可以是request、application等
+		//取出DataSource，之前是用class MysqlDataSource這邊用介面interface DataSource
 		DataSource datasource=(DataSource)application.getAttribute("datasource");
 		//建構DAO物件
 		dao=new MyCustomersDao();

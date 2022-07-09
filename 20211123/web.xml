@@ -19,7 +19,7 @@
   <servlet>
   	<servlet-name>appconfig</servlet-name>
   	<servlet-class>com.gjun.view.ApplicationConfigServlet</servlet-class>
-  	<!-- 跟應用系統啟動 產生個體物件 -->
+  	<!-- 跟應用系統啟動 產生個體物件 數字越小 順位越高 -->
   	<load-on-startup>1</load-on-startup>
   </servlet>
   <!-- 描述一個對外的端點 -->

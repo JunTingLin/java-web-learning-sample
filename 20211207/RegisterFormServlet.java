@@ -22,8 +22,9 @@ public class RegisterFormServlet extends HttpServlet {
 		RequestDispatcher disp=
 				request.getRequestDispatcher("WEB-INF/views/usersform.jsp");
 		//有沒有額外處理
-		//派送(持續原先的Request與Response物件)
-		disp.forward(request, response); //控制權交給jsp頁面
+		//派送(持續原先的Request與Response物件)，有include跟forward
+		disp.forward(request, response); //後面的不處理，控制權交給jsp頁面
+		
 		
 	}
 	

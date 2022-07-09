@@ -37,9 +37,13 @@ public class RegisterSaveServlet extends HttpServlet {
 		users.setEmail(email);
 		
 		//呼叫資料新增模組(Model)
-		//成功與否 派送View給前端(持續這一個註冊資訊 到View)
+		// 成功與否 派送View給前端(持續這一個註冊資訊 到View) 
+		//不然假如你有10個屬性，就要持續這10個到view去，會很麻煩
 		//如果新增成功了 派送畫面(View)
 		//需要持續一個狀態(state) 目前這一個封裝前端表單欄位的JavaBean物件 request scope
+
+		//可參考應用系統聆聽器ApplicationHandler裡application.setAttribute，活得比較久共用
+		//這裡request死掉，我的users javaBean就釋放
 		request.setAttribute("users",users);
 		//透過request物件 問出RequestDispatcher 指向目標(Jsp page)
 		RequestDispatcher disp=
